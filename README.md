@@ -19,7 +19,7 @@ Foi utilizado as linguagens HTML, CSS e Javascript.
 
 ### Links
 
-- Solution URL: [Solution here](https://ingridssilveira.github.io/facebook/)
+- Solution URL: [Solution here](https://ingridssilveira.github.io/facebook_clone/)
 
 ## Author
 
