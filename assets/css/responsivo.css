@@ -1,0 +1,28 @@
+@media screen and (max-width: 600px) {
+    .logo {
+        width: 190px;
+    }
+    .section {
+        flex-direction: column;
+    }
+    .card {
+        background-color: var(--background);
+        box-shadow: none;
+    }
+    .paragrafo,
+    .paragrafo_info {
+        display: none;
+    }
+    .input,
+    .btn1,
+    .linha {
+        width: 250px;
+    }
+    .footer {
+        margin: 0;
+    }
+    .footer p {
+        display: block;
+        text-align: center;
+    }
+}
